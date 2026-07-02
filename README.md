@@ -1,2 +1,2 @@
 # star_learner
-learning web app.
+learning web app for my kid in kindy.
